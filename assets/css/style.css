@@ -1,0 +1,38 @@
+.jumbotron {
+	background-image: url("../images/ignasi_pattern_s.png");
+    align-items: center;
+	justify-content: center;	
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 36px;;
+	color: black;
+	margin: 10px;
+}
+
+h3 {
+	margin: 10px;
+}
+
+h4 {
+	font-weight: bold;
+	font-size: 18px;;
+	color: black;
+}
+
+#submit{
+	display: none;
+	color: white;
+}
+
+
+#trivia {
+	align-content: center;
+	font-size: 15px;
+	opacity: 0.75;
+}
+
+input{
+	margin: 10px;
+}
